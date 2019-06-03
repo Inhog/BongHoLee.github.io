@@ -1,9 +1,8 @@
 ---
-title: Using Git Like Professionally
+title: Using Git Like Pro
 layout: post
 summary: Learn how to use all git commands
 categories: 
-    - git
     - web-development
 thumbnail: posts/gitflow-workflow.png
 author: Sujay Kundu
