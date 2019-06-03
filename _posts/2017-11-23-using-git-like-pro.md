@@ -1,5 +1,5 @@
 ---
-title: Using Git Like Pro
+title: Using Git Like Professionally
 layout: post
 summary: Learn how to use all git commands
 categories: 
