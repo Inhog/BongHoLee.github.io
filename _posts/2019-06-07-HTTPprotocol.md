@@ -5,6 +5,7 @@ author: Bong5
 category:
   - Java
   - Keywords
+  - web-development
 summary: Http Protocol에 대한 간략한 요약
 thumbnail: posts/http.png
 ---
